@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1531518313 source:c:\test\nueva carpeta\diazboutet.final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531513465 c:\test\nueva carpeta\diazboutet.final\arraylist.h
+
+1531518515 source:c:\test\nueva carpeta\diazboutet.final\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Func.h"
+
+1531517071 c:\test\nueva carpeta\diazboutet.final\func.h
+
+1531518584 source:c:\test\nueva carpeta\diazboutet.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Func.h"
+
